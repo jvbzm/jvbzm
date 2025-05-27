@@ -13,7 +13,6 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,)](https://skillicons.dev)
 
 <br>
-<br>
   
 ## 📊 GitHub Stats:
 
