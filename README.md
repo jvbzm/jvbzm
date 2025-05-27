@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=600&color=3ff7fd&width=435&lines=Hey!+Come+on+over+🙌)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=600&color=3ff7fd&width=435&lines=Hey!+Come+on+over!+🙌)](https://git.io/typing-svg)
 
  ## A new professional future in information technology 👩‍💻
 
