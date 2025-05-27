@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats:
 
 <div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/emytonton">
+  <a href="https://github.com/jvbzm">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=jvbzm&show_icons=true&theme=blue"/>
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvbzm&layout=compact&theme=blue"/>
   </a>
