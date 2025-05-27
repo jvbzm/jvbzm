@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=600&color=3ff7fd&width=435&lines=Hi!+Come+on+over+🙌)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=600&color=3ff7fd&width=435&lines=Hey!+Come+on+over+🙌)](https://git.io/typing-svg)
 
  ## A new professional future in information technology 👩‍💻
 
@@ -19,12 +19,13 @@
   
 ## 📊 GitHub Stats:
 
-<div align="center" style="display: flex; justify-content: center;">
-  <a href="https://github.com/jvbzm">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=jvbzm&show_icons=true&theme=blue"/>
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvbzm&layout=compact&theme=blue"/>
-  </a>
-</div>
+<a  href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=jvbzm&layout=compact&langs_count=7&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" width=370 src="https://github-readme-stats.vercel.app/api?username=jvbzm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</a>
+
 
 
 ## Contact
